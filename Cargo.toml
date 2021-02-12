@@ -1,5 +1,5 @@
 [package]
-name = "switch_power_plan"
+name = "power_plans_switcher"
 version = "0.1.0"
 authors = ["drforse <george.lifeslice@gmail.com>"]
 edition = "2018"
